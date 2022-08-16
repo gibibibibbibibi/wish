@@ -1,4 +1,6 @@
 body {
+  background-color: white;
+  margin: 0;
 }
 
 .nav {
@@ -30,7 +32,6 @@ body {
   margin: 25px;
 }
 
-.gabi {
+.middle {
   width: 100%;
-  display: flex;
 }
