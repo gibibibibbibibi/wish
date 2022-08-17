@@ -27,9 +27,13 @@ body {
   flex-direction: row;
 }
 
+.nav-sub {
+  display: flex;
+  flex-direction: row;
+}
+
 .subnav {
-  font-size: 18px;
-  margin: 25px;
+  margin: 3vw;
 }
 
 .middle {
