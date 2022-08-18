@@ -27,13 +27,17 @@ body {
   flex-direction: row;
 }
 
-.nav-sub {
-  display: flex;
-  flex-direction: row;
-}
-
 .subnav {
   margin: 3vw;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 .middle {
